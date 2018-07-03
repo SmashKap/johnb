@@ -1,0 +1,4 @@
+#Ignore the following
+wp-config.php
+.htaccess
+wp-content/uploads
